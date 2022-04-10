@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  ok-sssh:
     build: .
     ports:
       - 80:80
